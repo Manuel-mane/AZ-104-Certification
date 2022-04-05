@@ -22,7 +22,6 @@ different subnets and communication is blocked using a network security group.
 We go to Network Security groups, click on the created one > Inbound security rules, add one as follow:
 
 ![](../../Images/Lab-8/Imagen2.png/)
-
 ![](../../Images/Lab-8/Imagen3.png/)
 
 Do something similar with Outbound Rules:
