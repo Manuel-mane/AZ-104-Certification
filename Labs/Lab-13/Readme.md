@@ -14,17 +14,17 @@ cloud-init to install NGINX during the deployment of a Linux VM.
 
 1.	Create a new Linux VM
 
-![](../../Images/Lab-13/Imagen1.png/)
+![](../../Images/LAb-13/Imagen1.png/)
 
 Leaving everything else as default, I include the cloud_init script in Advanced
 
-![](../../Images/Lab-13/Imagen2.png/)
+![](../../Images/LAb-13/Imagen2.png/)
 
 2.	Deploy VM and Verify NGINX is installed
 I go to the deployed VM > Connect > SSH, and copy the command to connect via CLI on Bash
 
-![](../../Images/Lab-13/Imagen3.png/)
+![](../../Images/LAb-13/Imagen3.png/)
 
 Verifying Nginx is working
 
-![](../../Images/Lab-13/Imagen4.png/)
+![](../../Images/LAb-13/Imagen4.png/)
