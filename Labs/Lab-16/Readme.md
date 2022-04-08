@@ -10,3 +10,18 @@ to Windows VMs, I need to come up with a solution.
 - Create an Azure Bastion Subnet
 - Create an Azure Bastion Service
 - Connect to the Windows VM via Bastion
+
+## Lab Solution
+
+1.	Create an Azure Bastion Subnet
+
+![](../../Images/Lab-16/Imagen1.png/)
+
+2.	Create an Azure Bastion Service
+
+![](../../Images/Lab-16/Imagen2.png/)
+
+3.	Connects to the Windows VM via Bastion
+I go the VM, and connect via Bastion using the VM credentials.
+
+![](../../Images/Lab-16/Imagen3.png/)
